@@ -1,8 +1,13 @@
 Name: RAJESH KUMAR
+
 Company: CODETECH IT SOLUTIONS
+
 ID:CT6FSWD1326
+
 Domain: Full Stack WEb Development
+
 Duration: 15th July to 30th August,2024
+
 Mentor:SANTHOSH KUMAR
 
 Overview of the Project
