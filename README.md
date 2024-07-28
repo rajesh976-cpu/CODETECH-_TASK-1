@@ -1,6 +1,15 @@
-# CODETECH _TASK 1
+Name: RAJESH KUMAR
+Company: CODETECH IT SOLUTIONS
+ID:CT6FSWD1326
+Domain: Full Stack WEb Development
+Duration: 15th July to 30th August,2024
+Mentor:SANTHOSH KUMAR
 
- PORTFOLIO_WEBSITE:-
+Overview of the Project
+
+Project:- PORTFOLIO_WEBSITE 
+
+Objective:The objective of the Personal Portfolio Website project is to create an online platform that effectively showcases my professional skills, projects, and experience to potential employers, clients, and collaborators
  
 This repository contains the source code for my personal portfolio website. 
 
