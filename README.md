@@ -16,7 +16,7 @@ Database: MongoDB (or your preferred database)
 Styling: Bootstrap, SASS
 Hosting: Deployed on Netlify (or your preferred hosting service)
 Getting Started
-Clone the repository:
+Clone the repository:-
 
 bash
 Copy code
