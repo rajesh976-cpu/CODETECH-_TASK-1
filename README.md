@@ -10,6 +10,9 @@ Duration: 15th July to 30th August,2024
 
 Mentor:SANTHOSH KUMAR
 
+#NOTE: THE OUTPUT SCREENSHOT ARE ATTACHED IN FILE ALSO.
+
+
 Overview of the Project
 
 Project:- PORTFOLIO_WEBSITE 
